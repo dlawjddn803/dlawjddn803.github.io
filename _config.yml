@@ -7,19 +7,19 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Jungwoo Lim
-  desc: Hello nice to meet you
+  desc: NLP & AI Lab., Korea University
   email: dlawjddn803@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
 social:
-  email: true
+  email: dlawjddn803@gmail.com
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: dlawjddn803
   google_plus:
   instagram:
   keybase:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:

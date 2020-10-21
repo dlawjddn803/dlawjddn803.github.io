@@ -3,24 +3,32 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I'm interested in Commonsense Knowledge and Reasoning Process. Currently, I am master student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* Korea University (2019/09 ~ )
+  * M.S in Computer Science and Engineering
+
+* Sungkyunkwan University (2015/03 ~ 2019/08)
+  * B.S in Library and Information Science and Data Science 
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Awards and Honors
+The 8th Financial Style Visualization Competition using KCB (Korea Credit Bureau) Data
+The 5th L.POINT Big Data Competition, Excellence award (2019.02)  
+Teh 4th Meteorological Agency Big Data Contest, Encouragement award (2018.08)   
+
+<br/>
+
+# Publication
+
+### International Conference
+I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) Jungwoo Lim, Dongsuk Oh, Yoonna Jang, Kisu Yang and Heuiseok Lim   
+
+
+### Domestic Conference
+Commonsense Graph Path Learning Model for OpenBook Question and Answering (HCLT 2020) [Best Paper]
+Hyperpartisan news Detection using Sentence BERT Embedding (HCLT 2019)
