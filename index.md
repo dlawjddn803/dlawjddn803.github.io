@@ -6,6 +6,8 @@ layout: about
 I'm interested in Commonsense Knowledge and Reasoning Process. 
 Currently, I am master student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
+Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
+
 <br/>
 
 # Research Intereset
