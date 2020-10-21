@@ -35,7 +35,7 @@ Currently, I am master student and advised by Prof. [Heuiseok Lim](https://schol
 # Publication
 
 ### International Conference
-* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning ([COLING 2020](https://coling2020.org/)) **Jungwoo Lim***, Dongsuk Oh*, Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
+* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) **Jungwoo Lim***, Dongsuk Oh*, Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
 
 
 ### Domestic Conference
