@@ -1,6 +1,6 @@
 # Site settings
 title: Jungwoo Lim
-baseurl: "/ap"
+baseurl: ""
 url: "https://dlawjddn803.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
