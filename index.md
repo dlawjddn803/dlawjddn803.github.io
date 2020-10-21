@@ -27,9 +27,9 @@ Currently, I am master student and advised by Prof. [Heuiseok Lim](https://schol
 # Publication
 
 ### International Conference
-* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) Jungwoo Lim, Dongsuk Oh, Yoonna Jang, Kisu Yang and Heuiseok Lim   
+* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) Jungwoo Lim, Dongsuk Oh, Yoonna Jang, Kisu Yang and Heuiseok Lim*   
 
 
 ### Domestic Conference
-* Commonsense Graph Path Learning Model for OpenBook Question and Answering (HCLT 2020) [Best Paper]
-* Hyperpartisan news Detection using Sentence BERT Embedding (HCLT 2019)
+* Commonsense Graph Path Learning Model for OpenBook Question and Answering (HCLT 2020) [Best Paper] Jungwoo Lim, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim*
+* Hyperpartisan news Detection using Sentence BERT Embedding (HCLT 2019) Jungwoo Lim, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim
