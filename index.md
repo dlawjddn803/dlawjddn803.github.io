@@ -39,9 +39,9 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 # Publication
 
 ### International Conference
-* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) **Jungwoo Lim***, Dongsuk Oh*, Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
+* I Know What You Asked: Graph Path Learning using AMR for Commonsense Reasoning (COLING 2020) **Jungwoo Lim**[*], Dongsuk Oh[*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
 
 
 ### Domestic Conference
 * Commonsense Graph Path Learning Model for OpenBook Question and Answering (HCLT 2020) [**Best Paper**] **Jungwoo Lim**, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim
-* Hyperpartisan news Detection using Sentence BERT Embedding (HCLT 2019) **Jungwoo Lim***, Taesun Whang*, Dongsuk Oh, Kisu Yang, Heuiseok Lim (*: equal contributions)
+* Hyperpartisan news Detection using Sentence BERT Embedding (HCLT 2019) **Jungwoo Lim**, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim 
