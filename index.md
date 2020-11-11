@@ -39,7 +39,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 # Publication
 
 ### International Conference
-* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) (COLING 2020 - Oral Presentation) **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
+* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) (COLING 2020 - **Oral Presentation**) **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
 
 
 ### Domestic Conference
