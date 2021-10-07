@@ -27,6 +27,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
 * Sungkyunkwan University (2015/03 ~ 2019/08)
   * B.S in Library and Information Science and Data Science 
+<span style="color:blue">some *blue* text</span>.
 
 <br/>
 
