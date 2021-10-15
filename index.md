@@ -40,17 +40,17 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 # Publication
 
 ### International Publication
-* Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization <span style="color:rgb(0,181,226)"> EMNLP 2021 NewSum </span>.<br/> 
- Dongyub Lee, **Jungwoo Lim**, Taesun Whang, Jungwoo Lim, Seungwoo Cho, Mingun Park and Heuiseok Lim 
-* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) COLING 2020 - **Oral Presentation** <br/>
+* Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization <span style="color:rgb(0,181,226)"> EMNLP 2021 NewSum </span> <br/> 
+ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Jungwoo Lim, Seungwoo Cho, Mingun Park and Heuiseok Lim (*: equal contributions)   
+* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) <span style="color:rgb(0,181,226)"> COLING 2020 </span> - **Oral Presentation** <br/>
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)   
 
 ### Domestic Publication
-* [An Automated Industry and Occupation Coding System using Deep Learning](https://www.koreascience.or.kr/article/JAKO202113759910436.pdf) Journal of the Korea Convergence Society <br/>
+* [An Automated Industry and Occupation Coding System using Deep Learning](https://www.koreascience.or.kr/article/JAKO202113759910436.pdf) <span style="color:rgb(0,181,226)"> Journal of the Korea Convergence Society </span> <br/>
 **Jungwoo Lim**, Hyeonseok Moon, Chanhee Lee, Chankyun Woo and Heuiseok Lim
-* Analysis on Question Understanding of Language Models using Clever Hans Tests HCLT 2021 <br/>
+* Analysis on Question Understanding of Language Models using Clever Hans Tests <span style="color:rgb(0,181,226)"> HCLT 2021 </span> <br/>
 **Jungwoo Lim**, Donsuk Oh, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim
-* Commonsense Graph Path Learning Model for OpenBook Question and Answering HCLT 2020 [**Best Paper**] <br/>
+* Commonsense Graph Path Learning Model for OpenBook Question and Answering <span style="color:rgb(0,181,226)"> HCLT 2020 </span> [**Best Paper**] <br/>
 **Jungwoo Lim**, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim
-* Hyperpartisan news Detection using Sentence BERT Embedding HCLT 2019 <br/>
+* Hyperpartisan news Detection using Sentence BERT Embedding <span style="color:rgb(0,181,226)"> HCLT 2019 </span> <br/>
 **Jungwoo Lim**, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim 
