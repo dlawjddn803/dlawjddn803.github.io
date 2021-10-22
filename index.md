@@ -41,7 +41,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 ### International Publication
 * Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021 NewSum </span> <br/> 
-Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Jungwoo Lim, Seungwoo Cho, Mingun Park and Heuiseok Lim (*: equal contributions)   
+Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park and Heuiseok Lim (*: equal contributions)   
 <br/> 
 * [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) (**Oral Presentation** ) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 28th International Conference on Computational Linguistics (COLING 2020) </span>  <br/>
