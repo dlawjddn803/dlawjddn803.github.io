@@ -4,9 +4,11 @@ layout: about
 
 # About Me
 I'm interested in Commonsense Knowledge, Reasoning, Dialogue System and Question and Answering. 
-Currently, I am master student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
 
 Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
+
+Please Check My [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)
 
 <br/>
 
@@ -44,7 +46,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 <span style="color:rgb(73, 120, 173)"> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021 NewSum </span> <br/> 
 Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park and Heuiseok Lim (*: equal contributions)   
 <br/> 
-* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) (**Oral Presentation** ) <br/> 
+* [I Know What You Asked: Graph Path Learning using AMR for Commonsense](https://arxiv.org/pdf/2011.00766.pdf) (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 28th International Conference on Computational Linguistics (COLING 2020) </span>  <br/>
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
