@@ -30,6 +30,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 <br/>
 
 # Awards and Honors
+* The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations
 * The 8th Financial Style Visualization Competition using KCB Data(Korea Credit Bureau), 5th place(2019.08)
 * The 5th L.POINT Big Data Competition, Excellence award (2019.02)  
 * The 4th Meteorological Agency Big Data Contest, Encouragement award (2018.08)   
