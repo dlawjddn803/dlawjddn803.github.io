@@ -8,7 +8,7 @@ Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://s
 
 Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
-Please Check My [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)
+[Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)
 
 <br/>
 
