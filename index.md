@@ -41,7 +41,11 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
 # Publication
 
-### International Publication
+### International Conference
+* [Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge]() <br/> 
+<span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 22) </span> <br/> 
+Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Dongsuk Oh[\*], Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
+<br/> 
 * [Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization](https://aclanthology.org/2021.newsum-1.8.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021 NewSum </span> <br/> 
 Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park and Heuiseok Lim (*: equal contributions)   
@@ -50,11 +54,14 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 <span style="color:rgb(73, 120, 173)"> The 28th International Conference on Computational Linguistics (COLING 2020) </span>  <br/>
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
-### Domestic Publication
-* [An Automated Industry and Occupation Coding System using Deep Learning](https://www.koreascience.or.kr/article/JAKO202113759910436.pdf) <br/> 
-<span style="color:rgb(73, 120, 173)"> Journal of the Korea Convergence Society </span> <br/>
-**Jungwoo Lim**, Hyeonseok Moon, Chanhee Lee, Chankyun Woo and Heuiseok Lim
+### International Journal
+* [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction]() <br/> 
+<span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
+Yuna [\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
+<br/>
 
+
+### Domestic Conference
 * Analysis on Question Understanding of Language Models using Clever Hans Tests <br/> 
 <span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021) </span> <br/>
 **Jungwoo Lim**, Donsuk Oh, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim <br/>
@@ -66,3 +73,8 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 * Hyperpartisan news Detection using Sentence BERT Embedding <br/> 
 <span style="color:rgb(73, 120, 173)"> The 31st Annual Conference on Human & Cognitive Language Technology (HCLT 2019) </span> <br/>
 **Jungwoo Lim**, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim 
+
+### Domestic Journal
+* [An Automated Industry and Occupation Coding System using Deep Learning](https://www.koreascience.or.kr/article/JAKO202113759910436.pdf) <br/> 
+<span style="color:rgb(73, 120, 173)"> Journal of the Korea Convergence Society </span> <br/>
+**Jungwoo Lim**, Hyeonseok Moon, Chanhee Lee, Chankyun Woo and Heuiseok Lim
