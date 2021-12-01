@@ -42,7 +42,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 # Publication
 
 ### International Conference
-* [Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge]() <br/> 
+* Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge <br/> 
 <span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 22) </span> <br/> 
 Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Dongsuk Oh[\*], Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
 <br/> 
