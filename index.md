@@ -44,7 +44,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 ### International Conference
 * Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge <br/> 
 <span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 22) </span> <br/> 
-Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Dongsuk Oh[\*], Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
+Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
 <br/> 
 * [Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization](https://aclanthology.org/2021.newsum-1.8.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021 NewSum </span> <br/> 
