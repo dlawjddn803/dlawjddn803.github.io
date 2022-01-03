@@ -43,12 +43,12 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
 ### International Conference
 * Towards Filling the Gap between Written and Spoken Dialogues for Multi-Domain Dialogue State Tracking <br/> 
-<span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 22) - DSTC10 workshop </span> <br/> 
+<span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022) - DSTC10 workshop </span> <br/> 
 Taesun Whang[\*], **Jungwoo Lim**[\*], Dongyub Lee and Heuiseok Lim (*: equal contributions)   
 <br/> 
-* Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge <br/> 
-<span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 22) </span> <br/> 
-Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
+* [Call for Customized Conversation: Customized Conversation Grounding Persona and Knowledge](https://arxiv.org/pdf/2112.08619.pdf) <br/> 
+<span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022) </span> <br/> 
+Yoonna Jang[\*], **Jungwoo Lim**[\*], Yuna Hur[\*], Dongsuk Oh, Suhyune Son, Yeonsoo Lee, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)   
 <br/> 
 * [Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization](https://aclanthology.org/2021.newsum-1.8.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021 NewSum </span> <br/> 
@@ -59,7 +59,7 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
 ### International Journal
-* [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction]() <br/> 
+* [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction](https://www.mdpi.com/2076-3417/11/23/11472) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
 Yuna [\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
 <br/>
