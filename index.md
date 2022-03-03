@@ -24,7 +24,7 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
 # Education
 * Korea University (2019/09 ~ )
-  * M.S in Computer Science and Engineering
+  * M.S & Ph.D in Computer Science and Engineering
 
 * Sungkyunkwan University (2015/03 ~ 2019/08)
   * B.S in Library and Information Science and Data Science 
