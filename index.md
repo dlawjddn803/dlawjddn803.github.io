@@ -8,9 +8,9 @@ Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://s
 
 Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
-Please check my CV and Google Scholar! 
-[CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing)
-[Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)
+Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)! 
+
+
 
 <br/>
 
