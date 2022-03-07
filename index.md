@@ -9,7 +9,7 @@ Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://s
 Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 
 Please check my CV and Google Scholar! 
-[CV](/home/wjddn803/PycharmProjects/dlawjddn803/dlawjddn803.github.io/assets/pdf/Jungwoo_Lim_s_Curriculum_Vitae.pdf)
+[CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing)
 [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)
 
 <br/>
