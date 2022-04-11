@@ -14,6 +14,11 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 
 <br/>
 
+
+# Notice
+We are hosting "The 1st Workshop on Customized Chat Grounding Persona and Knowledge" at COLING 2022! Please check out our workshop [website](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)!
+
+
 # Research Intereset
 * Commonsense Knowledge
 * Symbolic Reasoning
