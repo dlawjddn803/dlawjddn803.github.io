@@ -49,6 +49,10 @@ We are hosting "The 1st Workshop on Customized Chat Grounding Persona and Knowle
 # Publication
 
 ### International Conference
+* GRASP: Guiding model with RelAtional Semantics using Prompt <br/> 
+<span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
+Junyoung Son[\*], Jinsung Kim[\*], **Jungwoo Lim**[\*], and Heuiseok Lim (*: equal contributions)   
+<br/> 
 * Towards Filling the Gap between Written and Spoken Dialogues for Multi-Domain Dialogue State Tracking <br/> 
 <span style="color:rgb(73, 120, 173)"> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022) - DSTC10 workshop </span> <br/> 
 Taesun Whang[\*], **Jungwoo Lim**[\*], Dongyub Lee and Heuiseok Lim (*: equal contributions)   
