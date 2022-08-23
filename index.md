@@ -49,7 +49,7 @@ We are hosting "The 1st Workshop on Customized Chat Grounding Persona and Knowle
 # Publication
 
 ### International Conference
-* GRASP: Guiding model with RelAtional Semantics using Prompt <br/> 
+* GRASP: Guiding model with RelAtional Semantics using Prompt (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
 Junyoung Son[\*], Jinsung Kim[\*], **Jungwoo Lim**[\*], and Heuiseok Lim (*: equal contributions)   
 <br/> 
