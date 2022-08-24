@@ -15,9 +15,11 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 <br/>
 
 
-# Notice
-We are hosting "The 1st Workshop on Customized Chat Grounding Persona and Knowledge" at COLING 2022! Please check out our workshop [website](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)!
+# News 
 
+10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022
+07/2022     Invited to server as a Reviewer for EMNLP 2022
+ 
 
 # Research Intereset
 * Commonsense Knowledge
@@ -37,6 +39,7 @@ We are hosting "The 1st Workshop on Customized Chat Grounding Persona and Knowle
   * B.S in Library and Information Science and Data Science 
 
 <br/>
+
 
 # Awards and Honors
 * The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations
