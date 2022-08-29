@@ -52,7 +52,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 # Publication
 
 ### International Conference
-* GRASP: Guiding model with RelAtional Semantics using Prompt (**Oral Presentation**) <br/> 
+* [GRASP: Guiding model with RelAtional Semantics using Prompt](https://arxiv.org/pdf/2208.12494.pdf) (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
 Junyoung Son[\*], Jinsung Kim[\*], **Jungwoo Lim**[\*], and Heuiseok Lim (*: equal contributions)   
 <br/> 
