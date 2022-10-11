@@ -93,13 +93,16 @@ Yuna Hur[\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok 
 ### Domestic Conference
 * Dialogue Relation Extraction using Dialogue Graph <br/> 
 <span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
-**Jungwoo Lim**, Jun, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim <br/>
+**Jungwoo Lim**, Jun, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim 
+<br/>
 * Analysis on Question Understanding of Language Models using Clever Hans Tests <br/> 
 <span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021) </span> <br/>
-**Jungwoo Lim**, Donsuk Oh, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim <br/>
+**Jungwoo Lim**, Donsuk Oh, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim 
+<br/>
 * Commonsense Graph Path Learning Model for OpenBook Question and Answering [**Best Paper**] <br/> 
 <span style="color:rgb(73, 120, 173)"> The 32nd Annual Conference on Human & Cognitive Language Technology (HCLT 2020) </span>  <br/>
-**Jungwoo Lim**, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim <br/> 
+**Jungwoo Lim**, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim 
+<br/> 
 * Hyperpartisan news Detection using Sentence BERT Embedding <br/> 
 <span style="color:rgb(73, 120, 173)"> The 31st Annual Conference on Human & Cognitive Language Technology (HCLT 2019) </span> <br/>
 **Jungwoo Lim**, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim 
