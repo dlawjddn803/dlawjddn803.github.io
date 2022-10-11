@@ -16,7 +16,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 
 
 # News 
-
+10/2022     Our paper "You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona" is accepted to EMNLP 2022 Findings!
 10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022
 07/2022     Invited to server as a Reviewer for EMNLP 2022
  
@@ -52,6 +52,10 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 # Publication
 
 ### International Conference
+* [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona]() <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
+**Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions) 
+<br/> 
 * [GRASP: Guiding model with RelAtional Semantics using Prompt](https://arxiv.org/pdf/2208.12494.pdf) (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
 Junyoung Son[\*], Jinsung Kim[\*], **Jungwoo Lim**[\*], and Heuiseok Lim (*: equal contributions)   
@@ -73,11 +77,20 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
 ### International Journal
-* [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction](https://www.mdpi.com/2076-3417/11/23/11472) <br/> 
+* [Neuro-Symbolic Word Embedding Using Textual and Knowledge Graph Information](https://www.mdpi.com/2076-3417/12/19/9424/htm) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
-Yuna [\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
+Dongsuk Oh [\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
 <br/>
 
+* [Semantic Representation Using Sub-Symbolic Knowledge in Commonsense Reasoning](https://www.mdpi.com/2076-3417/12/18/9202/htm) <br/> 
+<span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
+Dongsuk Oh [\*], **Jungwoo Lim[\*]**, Kinam Park and Heuiseok Lim (*: equal contributions)      
+<br/>
+
+* [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction](https://www.mdpi.com/2076-3417/11/23/11472) <br/> 
+<span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
+Yuna Hur[\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
+<br/>
 
 ### Domestic Conference
 * Analysis on Question Understanding of Language Models using Clever Hans Tests <br/> 
