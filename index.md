@@ -53,7 +53,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 
 ### International Conference
 * [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona]() <br/> 
-<span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/>
 **Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions) 
 <br/> 
 * [GRASP: Guiding model with RelAtional Semantics using Prompt](https://arxiv.org/pdf/2208.12494.pdf) (**Oral Presentation**) <br/> 
@@ -81,26 +81,25 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 <span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
 Dongsuk Oh [\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
 <br/>
-
 * [Semantic Representation Using Sub-Symbolic Knowledge in Commonsense Reasoning](https://www.mdpi.com/2076-3417/12/18/9202/htm) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
 Dongsuk Oh [\*], **Jungwoo Lim[\*]**, Kinam Park and Heuiseok Lim (*: equal contributions)      
 <br/>
-
 * [K-EPIC:Entity-PerceIved Context representation in Korean Relation Extraction](https://www.mdpi.com/2076-3417/11/23/11472) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences </span> <br/>
 Yuna Hur[\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
 <br/>
 
 ### Domestic Conference
+* Dialogue Relation Extraction using Dialogue Graph <br/> 
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
+**Jungwoo Lim**, Jun, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim <br/>
 * Analysis on Question Understanding of Language Models using Clever Hans Tests <br/> 
 <span style="color:rgb(73, 120, 173)"> The 33rd Annual Conference on Human & Cognitive Language Technology (HCLT 2021) </span> <br/>
 **Jungwoo Lim**, Donsuk Oh, Sungjin Park, Taesun Whang, Midan Shim, Suhyune Son, Yujin Kim and Heuiseok Lim <br/>
-
 * Commonsense Graph Path Learning Model for OpenBook Question and Answering [**Best Paper**] <br/> 
 <span style="color:rgb(73, 120, 173)"> The 32nd Annual Conference on Human & Cognitive Language Technology (HCLT 2020) </span>  <br/>
 **Jungwoo Lim**, Donsuk Oh, Yoonna Jang, Kisu Yang, Heuiseok Lim <br/> 
-
 * Hyperpartisan news Detection using Sentence BERT Embedding <br/> 
 <span style="color:rgb(73, 120, 173)"> The 31st Annual Conference on Human & Cognitive Language Technology (HCLT 2019) </span> <br/>
 **Jungwoo Lim**, Taesun Whang, Dongsuk Oh, Kisu Yang, Heuiseok Lim 
