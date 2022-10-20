@@ -53,7 +53,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 ### International Conference
 * [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona]() <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/>
-**Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)<br/>  
+**Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)  
 <br/> 
 * [GRASP: Guiding model with RelAtional Semantics using Prompt](https://arxiv.org/pdf/2208.12494.pdf) (**Oral Presentation**) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 29th International Conference on Computational Linguistics (COLING 2022) </span> <br/> 
@@ -90,8 +90,8 @@ Yuna Hur[\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok 
 <br/>
 
 ### Domestic Conference
-* Dialogue Relation Extraction using Dialogue Graph <br/> 
-<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) [**Best Paper**] </span> <br/>
+* Dialogue Relation Extraction using Dialogue Graph [**Best Paper**]<br/> 
+<span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
 **Jungwoo Lim**, Junyoung Son, Jinsung Kim, Yuna Hur, Jaehyung Seo, Yoonna Jang, Jungbae Park and Heuiseok Lim 
 <br/>
 * Analysis on Question Understanding of Language Models using Clever Hans Tests <br/> 
