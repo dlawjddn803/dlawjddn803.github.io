@@ -20,7 +20,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 07/2022     Invited to server as a Reviewer for EMNLP 2022 <br/> 
 
 
-# Research Intereset
+# Research Interest
 * Commonsense Knowledge
 * Symbolic Reasoning
 * Semantic Representation
