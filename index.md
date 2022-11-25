@@ -11,7 +11,6 @@ Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
 Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPVkzwjoe/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)! 
 
 
-
 <br/>
 
 
@@ -19,14 +18,24 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022 <br/> 
 07/2022     Invited to server as a Reviewer for EMNLP 2022 <br/> 
 
+<br/>
 
 # Research Interest
-* Commonsense Knowledge
-* Symbolic Reasoning
-* Semantic Representation
-* Task Oriented Dialogue System
+* Dialogue System
+* Relation Extraction
 * Vision & Language
 * Visual Reasoning 
+* Commonsense Knowledge
+* Semantic Representation
+
+
+<br/>
+
+# Awards and Honors
+* The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations
+* The 8th Financial Style Visualization Competition using KCB Data (Korea Credit Bureau), 5th place(2019.08)
+* The 5th L.POINT Big Data Competition, Excellence award (2019.02)  
+* The 4th Meteorological Agency Big Data Contest, Encouragement award (2018.08)   
 
 <br/>
 
@@ -36,15 +45,6 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 
 * Sungkyunkwan University (2015/03 ~ 2019/08)
   * B.S in Library and Information Science and Data Science 
-
-<br/>
-
-
-# Awards and Honors
-* The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations
-* The 8th Financial Style Visualization Competition using KCB Data (Korea Credit Bureau), 5th place(2019.08)
-* The 5th L.POINT Big Data Competition, Excellence award (2019.02)  
-* The 4th Meteorological Agency Big Data Contest, Encouragement award (2018.08)   
 
 <br/>
 
