@@ -79,7 +79,7 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 ### International Journal
 * [Intent Classification and Slot Filling Model for In-Vehicle Services in Korean](https://www.mdpi.com/2076-3417/12/23/12438) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 2022, 12(23), 12438 </span> <br/>
-**Jungwoo Lim[\*]**, Suhyune Son, Songeun Lee, Changwoo Chun, Sungsoo Park, Yuna Hur and Heuiseok Lim (*: equal contributions)   
+**Jungwoo Lim[\*]**, Suhyune Son[\*], Songeun Lee, Changwoo Chun, Sungsoo Park, Yuna Hur and Heuiseok Lim (*: equal contributions)   
 <br/>
 * [Neuro-Symbolic Word Embedding Using Textual and Knowledge Graph Information](https://www.mdpi.com/2076-3417/12/19/9424/htm) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 2022, 12(19), 9424 </span> <br/>
