@@ -51,7 +51,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 # Publication
 
 ### International Conference
-* [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona]() <br/> 
+* [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona](http://arxiv.org/abs/2301.02401) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/>
 **Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)  
 <br/> 
