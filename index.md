@@ -15,6 +15,7 @@ Please check my [CV](https://drive.google.com/file/d/1OIubJzknuk7bAkOjLuTYHHNBPV
 
 
 # Academic Works
+1/2023     Invited to server as a Reviewer for ACL 2023 <br/> 
 10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022 <br/> 
 07/2022     Invited to server as a Reviewer for EMNLP 2022 <br/> 
 
@@ -76,6 +77,10 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
 ### International Journal
+* [Intent Classification and Slot Filling Model for In-Vehicle Services in Korean](https://www.mdpi.com/2076-3417/12/23/12438) <br/> 
+<span style="color:rgb(73, 120, 173)"> Applied Sciences, 2022, 12(23), 12438 </span> <br/>
+**Jungwoo Lim[\*]**, Suhyune Son, Songeun Lee, Changwoo Chun, Sungsoo Park, Yuna Hur and Heuiseok Lim (*: equal contributions)   
+<br/>
 * [Neuro-Symbolic Word Embedding Using Textual and Knowledge Graph Information](https://www.mdpi.com/2076-3417/12/19/9424/htm) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Sciences, 2022, 12(19), 9424 </span> <br/>
 Dongsuk Oh [\*], **Jungwoo Lim[\*]** and Heuiseok Lim (*: equal contributions)   
