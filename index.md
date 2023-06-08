@@ -15,6 +15,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works
+06/2023     Invited to serve as a Reviewer for EMNLP 2023 <br/> 
 01/2023     Invited to serve as a Reviewer for ACL 2023 <br/> 
 10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022 <br/> 
 07/2022     Invited to serve as a Reviewer for EMNLP 2022 <br/> 
@@ -33,10 +34,11 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 # Awards and Honors
-* Best Paper Award in The 34th Annual Conference on Human and Language Technology 
-* The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations
-* Best Paper Award in The 32th Annual Conference on Human and Language Technology 
-* The 8th Financial Style Visualization Competition using KCB Data (Korea Credit Bureau), 5th place(2019.08)
+* Best Research Award at Korea University (2023.02)
+* Best Paper Award in The 34th Annual Conference on Human and Language Technology (2022.10) 
+* The Tenth Dialog System Technology Challenge (DSTC10), **3rd place** in Subtask 1, Track 2 Knowledge-grounded Task-oriented Dialogue Modeling on Spoken Conversations (2021.10)
+* Best Paper Award in The 32th Annual Conference on Human and Language Technology (2020.10)
+* The 8th Financial Style Visualization Competition using KCB Data (Korea Credit Bureau), 5th place (2019.08)
 * The 5th L.POINT Big Data Competition, Excellence award (2019.02)  
 * The 4th Meteorological Agency Big Data Contest, Encouragement award (2018.08)   
 
