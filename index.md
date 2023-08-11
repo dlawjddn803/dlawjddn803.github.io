@@ -54,21 +54,21 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 # Research Projects
-* Samsung Fire & Marine Insurance (2023.07 ~ Current)
-- Exploring new services for enhancing digital competitiveness
-- Working with UX/UI designers and introducing new services with MVP model
+* **Samsung Fire & Marine Insurance** (2023.07 ~ Current)
+  * Exploring new services for enhancing digital competitiveness
+  * Working with UX/UI designers and introducing new services with MVP model
 
-* Naver Corporation (2022.07 ~ 2023.03)
-- Built a very first Korean document-level relation extraction dataset from the Naver Corp's Encyclopedia documents.
-- Developed the model that classifies the relations between two entities within the document by learning coreference-resolution, entity typing, and relation extraction and outperforms the baseline performances
+* **Naver Corporation** (2022.07 ~ 2023.03)
+  * Built a very first Korean document-level relation extraction dataset from the Naver Corp's Encyclopedia documents.
+  * Developed the model that classifies the relations between two entities within the document by learning coreference-resolution, entity typing, and relation extraction and outperforms the baseline performances
 
-* Hyundai Motor Company (2021.06 ~ 2022.03)
-- Developed a model that captures the intention of the utterance and fills the slot value into the corresponding slots with the data from Hyundai Motor Company
-- Used multi-tasking training on language model to enhance the performance of intent classification and to predict the slot value simultaneously
+* **Hyundai Motor Company** (2021.06 ~ 2022.03)
+  * Developed a model that captures the intention of the utterance and fills the slot value into the corresponding slots with the data from Hyundai Motor Company
+  * Used multi-tasking training on language model to enhance the performance of intent classification and to predict the slot value simultaneously
 
-* NCSoft Company (2020.06 ~ 2022.12)
-- Created a new dialogue dataset that grounds users' persona and knowledge using Amazon Mechanical Turk (FoCus)
-- Built an enhanced dialogue system that informs the user about the Wikipedia knowledge of certain landmarks based on the users' persona with the created dataset
+* **NCSoft Company** (2020.06 ~ 2022.12)
+  * Created a new dialogue dataset that grounds users' persona and knowledge using Amazon Mechanical Turk (FoCus)
+  * Built an enhanced dialogue system that informs the user about the Wikipedia knowledge of certain landmarks based on the users' persona with the created dataset
 
 <br/>
 
