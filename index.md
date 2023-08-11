@@ -102,7 +102,7 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 
 ### International Journal
 * [Adaptive Multi-Domain Dialogue State Tracking on Spoken Conversations](https://ieeexplore.ieee.org/document/10210521) <br/> 
-<span style="color:rgb(73, 120, 173)"> IEEE/ACM Transactions on Audio, Speech and Language Processing, 2023 </span> <br/>
+<span style="color:rgb(73, 120, 173)"> IEEE/ACM Transactions on Audio, Speech and Language Processing (IF: 4.364)</span> <br/>
 **Jungwoo Lim[\*]**, Taesun Whang[\*], Dongyub Lee and Heuiseok Lim (*: equal contributions)   
 <br/>
 * [Intent Classification and Slot Filling Model for In-Vehicle Services in Korean](https://www.mdpi.com/2076-3417/12/23/12438) <br/> 
