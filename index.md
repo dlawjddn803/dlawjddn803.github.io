@@ -14,11 +14,12 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 
-# Academic Works
+# Academic Works & News
+10/2023     3 of our papers got accepted at EMNLP 2023! <br/> 
 09/2023     Invited to serve as a Reviewer for Expert Systems With Applications <br/> 
 06/2023     Invited to serve as a Reviewer for EMNLP 2023 <br/> 
 01/2023     Invited to serve as a Reviewer for ACL 2023 <br/> 
-10/2022     Hosting "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022 <br/> 
+10/2022     Hosted "[The 1st Workshop on Customized Chat Grounding Persona and Knowledge](https://sites.google.com/view/persona-knowledge-workshop/home?authuser=0)" at COLING 2022 <br/> 
 07/2022     Invited to serve as a Reviewer for EMNLP 2022 <br/> 
 
 <br/>
@@ -77,6 +78,18 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 # Publication
 
 ### International Conference
+* [Beyond Candidates: Adaptive Dialogue Agent Utilizing Persona and Knowledge]() <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/>
+**Jungwoo Lim**, Myugnhoon Kang[\*], Jinsung Kim[\*], Jeongwook Kim, Yuna Hur, and Heuiseok Lim (*: equal contributions)  
+<br/> 
+* [Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction]() <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/>
+Junyoung Son, Jinsung Kim, **Jungwoo Lim**, and Heuiseok Lim  
+<br/> 
+* [Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations]() <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) </span> <br/>
+Yoonna Jang, Suhyune Son, Jeongwoo Lee, Junyoung Son, **Jungwoo Lim**, Hyeonseok Moon, Kisu Yang and Heuiseok Lim  
+<br/> 
 * [You Truly Understand What I Need: Intellectual and Friendly Dialogue Agents grounding Knowledge and Persona](http://arxiv.org/abs/2301.02401) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 Findings) </span> <br/>
 **Jungwoo Lim**, Myugnhoon Kang[\*], Yuna Hur[\*], Seung Won Jeong[\*], Jinsung Kim[\*], Yoonna Jang, Dongyub Lee, Hyesung Ji, DongHoon Shin, Seungryong Kim and Heuiseok Lim (*: equal contributions)  
