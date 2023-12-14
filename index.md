@@ -78,15 +78,15 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 # Publication
 
 ### International Conference
-* [Beyond Candidates: Adaptive Dialogue Agent Utilizing Persona and Knowledge]() <br/> 
+* [Beyond Candidates: Adaptive Dialogue Agent Utilizing Persona and Knowledge](https://aclanthology.org/2023.findings-emnlp.534.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/>
 **Jungwoo Lim**, Myugnhoon Kang[\*], Jinsung Kim[\*], Jeongwook Kim, Yuna Hur, and Heuiseok Lim (*: equal contributions)  
 <br/> 
-* [Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction]() <br/> 
+* [Explore the Way: Exploring Reasoning Path by Bridging Entities for Effective Cross-Document Relation Extraction](https://aclanthology.org/2023.findings-emnlp.450.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/>
 Junyoung Son, Jinsung Kim, **Jungwoo Lim**, and Heuiseok Lim  
 <br/> 
-* [Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations]() <br/> 
+* [Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations](https://aclanthology.org/2023.emnlp-main.295.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) </span> <br/>
 Yoonna Jang, Suhyune Son, Jeongwoo Lee, Junyoung Son, **Jungwoo Lim**, Hyeonseok Moon, Kisu Yang and Heuiseok Lim  
 <br/> 
