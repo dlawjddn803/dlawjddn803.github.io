@@ -15,7 +15,8 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
-10/2023     3 of our papers got accepted at EMNLP 2023! <br/> 
+02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024!
+10/2023     3 of our papers got accepted at EMNLP 2023 <br/> 
 09/2023     Invited to serve as a Reviewer for Expert Systems With Applications <br/> 
 06/2023     Invited to serve as a Reviewer for EMNLP 2023 <br/> 
 01/2023     Invited to serve as a Reviewer for ACL 2023 <br/> 
@@ -78,6 +79,10 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 # Publication
 
 ### International Conference
+* [KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation]() <br/> 
+<span style="color:rgb(73, 120, 173)"> The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) </span> <br/>
+Sugyeong Eo, **Jungwoo Lim**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim 
+<br/> 
 * [Beyond Candidates: Adaptive Dialogue Agent Utilizing Persona and Knowledge](https://aclanthology.org/2023.findings-emnlp.534.pdf) <br/> 
 <span style="color:rgb(73, 120, 173)"> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings) </span> <br/>
 **Jungwoo Lim**, Myugnhoon Kang[\*], Jinsung Kim[\*], Jeongwook Kim, Yuna Hur, and Heuiseok Lim (*: equal contributions)  
