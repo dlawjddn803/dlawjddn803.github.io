@@ -15,8 +15,8 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
-03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21)
-02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024!
+03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21) <br/> 
+02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024! <br/> 
 10/2023     3 of our papers got accepted at EMNLP 2023 <br/> 
 09/2023     Invited to serve as a Reviewer for Expert Systems With Applications <br/> 
 06/2023     Invited to serve as a Reviewer for EMNLP 2023 <br/> 
