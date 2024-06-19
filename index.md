@@ -49,7 +49,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 # Education
-* Korea University (2019/09 ~ )
+* Korea University (2019/09 ~ 2024/08)
   * M.S & Ph.D in Computer Science and Engineering
 
 * Sungkyunkwan University (2015/03 ~ 2019/08)
@@ -58,9 +58,13 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 # Research Projects
-* **Samsung Fire & Marine Insurance** (2023.07 ~ Current)
-  * Exploring new services for enhancing digital competitiveness
-  * Working with UX/UI designers and introducing new services with MVP model
+* **MIRI.DIH** (2024.02 ~ Current)
+  * Developing image retrieval services for the users
+  * Exploring the relative image components for the canvas
+
+* **Samsung Fire & Marine Insurance** (2023.07 ~ 2023.12)
+  * Explored new services for enhancing digital competitiveness
+  * Worked with UX/UI designers and introducing new services with MVP model
 
 * **Naver Corporation** (2022.07 ~ 2023.03)
   * Built a very first Korean document-level relation extraction dataset from the Naver Corp's Encyclopedia documents.
@@ -121,6 +125,10 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
 ### International Journal
+* [A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts]() <br/> 
+<span style="color:rgb(73, 120, 173)"> Applied Intelligence (IF: 5.3)</span> <br/>
+Suhyune Son, **Jungwoo Lim**, Seonmin Koo, Jinsung Kim and Heuiseok Lim (*: equal contributions)   
+<br/>
 * [Adaptive Multi-Domain Dialogue State Tracking on Spoken Conversations](https://ieeexplore.ieee.org/document/10210521) <br/> 
 <span style="color:rgb(73, 120, 173)"> IEEE/ACM Transactions on Audio, Speech and Language Processing (IF: 4.364)</span> <br/>
 **Jungwoo Lim[\*]**, Taesun Whang[\*], Dongyub Lee and Heuiseok Lim (*: equal contributions)   
