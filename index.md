@@ -15,6 +15,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
+07/2024     Invited to serve as a Reviewer for EMNLP 2024 <br/> 
 03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21) <br/> 
 02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024! <br/> 
 10/2023     3 of our papers got accepted at EMNLP 2023 <br/> 
@@ -151,6 +152,10 @@ Yuna Hur[\*], Suhyune Son[\*], Midan Shim[\*], **Jungwoo Lim[\*]** and Heuiseok 
 <br/>
 
 ### Domestic Conference
+* Audio-Visual Scene Aware Dialogue System Utilizing Action From Vision and Language Features <br/> 
+<span style="color:rgb(73, 120, 173)"> The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023) </span> <br/>
+**Jungwoo Lim**, Yoonna Jang, Junyoung Son, Seungyoon Lee, Kinam Park and Heuiseok Lim 
+<br/>
 * Dialogue Relation Extraction using Dialogue Graph [**Best Paper**]<br/> 
 <span style="color:rgb(73, 120, 173)"> The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022) </span> <br/>
 **Jungwoo Lim**, Junyoung Son, Jinsung Kim, Yuna Hur, Jaehyung Seo, Yoonna Jang, Jungbae Park and Heuiseok Lim 
