@@ -7,8 +7,8 @@ I'm Jungwoo Lim, Ph.D. in NLP (Natural Langauge Processing) from Korea Universit
 
 Currently, I'm staff engineer at Samsung Electronics, working on Galaxy AI, machine translation system. 
 
-Contact: dlawjddn803@gmail.com / jwjddn.lim@samsung.com
 
+Contact: dlawjddn803@gmail.com / jwjddn.lim@samsung.com
 Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W8fEgtW/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)! 
 
 
@@ -16,7 +16,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
-09/2025     Joined Samsung Electronics, MX. 
+09/2025     Joined Samsung Electronics, MX.  <br/> 
 07/2024     Invited to serve as a Reviewer for EMNLP 2024 <br/> 
 03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21) <br/> 
 02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024! <br/> 
