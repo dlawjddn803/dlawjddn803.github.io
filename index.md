@@ -3,10 +3,11 @@ layout: about
 ---
 
 # About Me
-I'm interested in Commonsense Knowledge, Reasoning, Dialogue System and Question and Answering. 
-Currently, I am a graduate student and advised by Prof. [Heuiseok Lim](https://scholar.google.co.kr/citations?user=HMTkz7oAAAAJ&hl=ko&oi=ao)  in the [NLP & AI Lab](http://nlp.korea.ac.kr/). 
+I'm Jungwoo Lim, Ph.D. in NLP (Natural Langauge Processing) from Korea University, [NLP & AI Lab](http://nlp.korea.ac.kr/) lab. My research focuses on Dialogue System and Generation, where I explore dialogue system integrated with persona and knowledge. Through my doctoral journey, I've developed expertise in building and evaluating models and contributed to top-tier conference papers. 
 
-Contact: dlawjddn803@gmail.com / wjddn803@korea.ac.kr
+Currently, I'm staff engineer at Samsung Electronics, working on Galaxy AI, machine translation system. 
+
+Contact: dlawjddn803@gmail.com / jwjddn.lim@samsung.com
 
 Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W8fEgtW/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?user=ubIxtk8AAAAJ&hl=ko)! 
 
@@ -15,6 +16,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
+09/2025     Joined Samsung Electronics, MX. 
 07/2024     Invited to serve as a Reviewer for EMNLP 2024 <br/> 
 03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21) <br/> 
 02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024! <br/> 
@@ -34,6 +36,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 * Visual Reasoning 
 * Commonsense Knowledge
 * Semantic Representation
+* Machine Translation
 
 
 <br/>
@@ -126,7 +129,11 @@ Dongyub Lee, **Jungwoo Lim**[\*], Taesun Whang[\*], Seungwoo Cho, Mingun Park an
 **Jungwoo Lim**[\*], Dongsuk Oh[\*], Yoonna Jang, Kisu Yang and Heuiseok Lim (*: equal contributions)  
 
 ### International Journal
-* [A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts]() <br/> 
+* [An Analysis on Language Transfer of Pre-trained Language Model with Cross-lingual Post-training]() <br/> 
+<span style="color:rgb(73, 120, 173)"> Expert Systems with Applications (IF: 7.5)</span> <br/>
+Suhyune Son, Chanjun Park, Jungseob Lee, Midan Shim, Chanhee Lee, Yoonna Jang, Jaehyung Seo, Jungwoo Lim, and Heuiseok Lim (*: equal contributions) <br/>
+
+* [A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts](https://link.springer.com/article/10.1007/s10489-024-05605-9) <br/> 
 <span style="color:rgb(73, 120, 173)"> Applied Intelligence (IF: 5.3)</span> <br/>
 Suhyune Son, **Jungwoo Lim**, Seonmin Koo, Jinsung Kim and Heuiseok Lim (*: equal contributions)   
 <br/>
