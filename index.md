@@ -16,7 +16,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 
 
 # Academic Works & News
-09/2025     Joined Samsung Electronics, MX.  <br/> 
+09/2024     Joined Samsung Electronics, MX.  <br/> 
 07/2024     Invited to serve as a Reviewer for EMNLP 2024 <br/> 
 03/2024     Received a Integrated Talent Scholarship from Brain Korea FOUR 21 (BK21) <br/> 
 02/2024     Our paper on CED (Critical Error Detection) is accepted at LREC-COLING 2024! <br/> 
@@ -62,7 +62,7 @@ Please check my [CV](https://drive.google.com/file/d/1COBsirQUHdzQWkzeM5J0RNDM7W
 <br/>
 
 # Research Projects
-* **MIRI.DIH** (2024.02 ~ Current)
+* **MIRI.DIH** (2024.02 ~ 2024.08)
   * Developing image retrieval services for the users
   * Exploring the relative image components for the canvas
 
