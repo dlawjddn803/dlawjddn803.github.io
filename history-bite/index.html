@@ -411,10 +411,10 @@ ul{margin:0;padding:0;list-style:none}
 .page-head{padding:calc(18px + env(safe-area-inset-top)) 0 4px}
 .page-head h1{font-size:25px;font-weight:800;letter-spacing:-.04em}
 .page-head p{font-size:12px;color:var(--dim);margin-top:6px;line-height:1.5}
-.empty{text-align:center;padding:46px 20px;color:var(--dim)}
-.empty .i{font-size:38px;display:block;margin-bottom:12px;opacity:.85}
-.empty b{display:block;font-size:14.5px;color:#cfd6ef;margin-bottom:6px;font-weight:800}
-.empty span{font-size:12.5px;line-height:1.6;display:block}
+div.empty{text-align:center;padding:46px 20px;color:var(--dim)}
+div.empty .i{font-size:38px;display:block;margin-bottom:12px;opacity:.85}
+div.empty b{display:block;font-size:14.5px;color:#cfd6ef;margin-bottom:6px;font-weight:800}
+div.empty span{font-size:12.5px;line-height:1.6;display:block}
 
 .wrong-item{padding:14px 15px;border-radius:17px;background:var(--card2);border:1px solid var(--line);margin-bottom:9px}
 .wrong-item .top{display:flex;align-items:center;gap:7px;margin-bottom:8px}
@@ -624,6 +624,123 @@ ul{margin:0;padding:0;list-style:none}
 .listmeta b{font-size:11.5px;font-weight:800;color:var(--dim)}
 .listmeta span{font-size:10.5px;color:var(--dim2);font-weight:700}
 
+/* ================= 연대기(timeline) ================= */
+.tl-head{padding-top:calc(16px + env(safe-area-inset-top))}
+.hint-link{font-size:10.5px;font-weight:800;color:var(--gold);padding:5px 9px;border-radius:99px;
+  background:rgba(255,206,92,.10);border:1px solid rgba(255,206,92,.26);flex:0 0 auto}
+.hint-link:active{transform:scale(.96)}
+
+.tl-sum{display:flex;align-items:center;gap:11px;width:100%;text-align:left;padding:12px 13px;border-radius:18px;margin:0 0 9px;
+  background:linear-gradient(120deg,rgba(255,206,92,.15),rgba(255,157,77,.04) 62%),var(--card2);
+  border:1px solid rgba(255,206,92,.30);transition:transform .14s}
+.tl-sum:active{transform:scale(.99)}
+.tl-sum .l{flex:1;min-width:0}
+.tl-sum .k{display:block;font-size:9px;font-weight:800;letter-spacing:.14em;color:var(--gold);margin-bottom:3px}
+.tl-sum b{display:block;font-size:12.5px;font-weight:800;line-height:1.34;letter-spacing:-.02em;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tl-sum .s{display:block;font-size:10px;color:var(--dim);font-weight:700;margin-top:3px;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tl-sum .pct{flex:0 0 auto;text-align:center}
+.tl-sum .pct b{font-size:15px;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums}
+.tl-sum .pct small{display:block;font-size:8px;font-weight:800;color:var(--dim2);letter-spacing:.08em;margin-top:1px}
+.tl-prog{height:4px;border-radius:99px;background:rgba(255,255,255,.08);overflow:hidden;margin:0 2px 12px}
+.tl-prog i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,#ffe08a,#ff9d5c)}
+.tl-legend{display:flex;align-items:center;gap:11px;margin:0 2px 12px;font-size:9.5px;color:var(--dim2);font-weight:700}
+.tl-legend i{display:inline-flex;align-items:center;gap:4px;font-style:normal}
+.tl-legend .d{width:9px;height:9px;border-radius:50%;border:2px solid rgba(255,255,255,.25)}
+.tl-legend .d.on{background:linear-gradient(150deg,#5be8b4,#2fc48c);border-color:transparent}
+.tl-legend .d.mid{background:rgba(255,206,92,.35);border-color:rgba(255,206,92,.75)}
+.tl-legend .d.now{background:linear-gradient(150deg,#ffe08a,#ff9d5c);border-color:transparent;
+  box-shadow:0 0 0 3px rgba(255,206,92,.18)}
+
+.tl-unit{margin:0 0 4px}
+.tl-uhead{position:sticky;top:env(safe-area-inset-top);z-index:4;display:flex;align-items:center;gap:9px;
+  padding:9px 11px;margin:0 0 3px;border-radius:14px;
+  background:linear-gradient(180deg,#101527,#0c1020);border:1px solid var(--line);
+  backdrop-filter:blur(16px) saturate(1.35);-webkit-backdrop-filter:blur(16px) saturate(1.35);
+  box-shadow:0 12px 26px -18px #000, 0 2px 0 rgba(255,255,255,.03) inset}
+.tl-uhead .uico{width:30px;height:30px;flex:0 0 30px;border-radius:10px;display:grid;place-items:center;font-size:14px;
+  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.07)}
+.tl-uhead .ut{flex:1;min-width:0}
+.tl-uhead .ut b{display:block;font-size:12px;font-weight:800;letter-spacing:-.02em;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tl-uhead .ut em{display:block;font-style:normal;font-size:9.5px;color:var(--dim2);font-weight:700;margin-top:2px;
+  font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tl-uhead .up{flex:0 0 auto;text-align:right}
+.tl-uhead .up b{display:block;font-size:10.5px;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums}
+.tl-uhead .up i{display:block;font-style:normal;font-size:8.5px;font-weight:800;color:var(--dim2);margin-top:1px}
+.tl-unit.k .tl-uhead .uico{background:rgba(255,128,128,.13);border-color:rgba(255,128,128,.25)}
+.tl-unit.w .tl-uhead .uico{background:rgba(92,200,255,.13);border-color:rgba(92,200,255,.25)}
+.tl-unit.g .tl-uhead .uico{background:rgba(183,141,255,.13);border-color:rgba(183,141,255,.25)}
+
+.tl-list{list-style:none;margin:0;padding:0 0 12px}
+.tl-row{position:relative;padding-left:26px}
+.tl-row::before{content:"";position:absolute;left:8px;top:0;bottom:0;width:2px;
+  background:linear-gradient(180deg,rgba(255,255,255,.20),rgba(255,255,255,.13))}
+.tl-row:first-child::before{top:20px}
+.tl-row:last-child::before{bottom:auto;height:20px}
+.tl-row:only-child::before{display:none}
+.tl-item{position:relative;display:block;width:100%;text-align:left;padding:8px 9px 9px;border-radius:12px;
+  border:1px solid transparent;transition:background .14s}
+.tl-item:active{background:rgba(255,255,255,.05)}
+.tl-node{position:absolute;left:-26px;top:14px;width:18px;height:18px;border-radius:50%;z-index:2;
+  display:grid;place-items:center;font-size:9px;font-weight:900;line-height:1;
+  background:#0b0e1c;border:2px solid rgba(255,255,255,.22);color:#0a0c16}
+.tl-row.cleared .tl-node{background:linear-gradient(150deg,#6ef0bd,#27b982);border-color:transparent;color:#04180f}
+.tl-row.reading .tl-node{background:#0b0e1c;border-color:rgba(255,206,92,.7);color:var(--gold)}
+.tl-row.now .tl-item{background:rgba(255,206,92,.08);border-color:rgba(255,206,92,.40);
+  box-shadow:0 12px 26px -22px rgba(255,190,80,.9)}
+.tl-row.now .tl-node{background:linear-gradient(150deg,#ffe08a,#ff9d5c);border-color:transparent;color:#231a05;
+  box-shadow:0 0 0 4px rgba(255,206,92,.16)}
+.tl-meta{display:flex;align-items:center;gap:6px;margin-bottom:2px;min-width:0}
+.tl-era{font-size:9.5px;font-weight:800;color:var(--dim);letter-spacing:.01em;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tl-row.cleared .tl-era{color:rgba(152,161,192,.9)}
+.tl-year{flex:0 0 auto;margin-left:auto;font-size:9px;font-weight:800;color:var(--dim2);
+  font-variant-numeric:tabular-nums;letter-spacing:.01em}
+.tl-nowtag{flex:0 0 auto;font-size:8px;font-weight:900;letter-spacing:.06em;color:#231a05;
+  padding:2px 5px;border-radius:5px;background:linear-gradient(120deg,#ffe08a,#ffab4d)}
+.tl-title{display:block;font-size:12.5px;font-weight:700;line-height:1.36;letter-spacing:-.01em;
+  overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tl-row.cleared .tl-title{color:rgba(238,241,255,.82)}
+.tl-foot{display:flex;align-items:center;gap:6px;margin-top:4px;min-width:0}
+.tl-tags{display:flex;align-items:center;gap:4px;flex-wrap:wrap;min-width:0}
+.tl-tags i{font-style:normal;font-size:9px;font-weight:700;color:#c8d0ea;background:rgba(255,255,255,.055);
+  border:1px solid rgba(255,255,255,.07);padding:2px 5px;border-radius:6px;white-space:nowrap}
+.tl-state{flex:0 0 auto;margin-left:auto;font-size:9px;font-weight:800;color:var(--gold);letter-spacing:.04em;
+  font-variant-numeric:tabular-nums}
+.tl-state.read{color:var(--dim2)}
+
+/* ---------- 챕터 전후 맥락 바 ---------- */
+.ctx{display:grid;grid-template-columns:1fr auto 1fr;align-items:stretch;gap:6px;margin:0 0 12px;flex:0 0 auto}
+.ctx:empty{display:none}
+.ctx-side{display:flex;flex-direction:column;justify-content:center;gap:1px;min-width:0;
+  padding:7px 9px;border-radius:12px;background:rgba(255,255,255,.045);border:1px solid var(--line);
+  text-align:left;transition:background .14s,border-color .14s}
+.ctx-side.next{text-align:right;align-items:flex-end}
+.ctx-side .k{font-size:8.5px;font-weight:800;color:var(--dim2);letter-spacing:.06em;white-space:nowrap}
+.ctx-side b{font-size:11px;font-weight:800;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ctx-side em{font-style:normal;font-size:8.5px;color:var(--dim2);font-weight:700;font-variant-numeric:tabular-nums}
+.ctx-side.off{opacity:.42}
+.ctx-side[disabled]{opacity:.5}
+.ctx-side:not([disabled]):active{transform:scale(.97);background:rgba(255,206,92,.10);border-color:rgba(255,206,92,.30)}
+.ctx-now{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:1px;text-align:center;
+  padding:7px 10px;border-radius:12px;min-width:72px;
+  background:linear-gradient(160deg,rgba(255,206,92,.16),rgba(255,157,77,.05));
+  border:1px solid rgba(255,206,92,.34)}
+.ctx-now .k{font-size:8px;font-weight:900;letter-spacing:.1em;color:var(--gold)}
+.ctx-now b{font-size:11px;font-weight:800;color:#ffe6a8;font-variant-numeric:tabular-nums}
+.ctx-now em{font-style:normal;font-size:8px;color:var(--dim);font-weight:700;max-width:92px;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ctx.compact{margin:0 0 8px}
+.ctx.compact .ctx-side,.ctx.compact .ctx-now{padding:5px 8px;border-radius:10px}
+.ctx.compact .ctx-side em,.ctx.compact .ctx-now em{display:none}
+.ctx.locked .ctx-side{background:rgba(255,255,255,.03);border-color:rgba(255,255,255,.07)}
+.ctx.locked .ctx-side .k{color:#5b6484}
+.ctx.locked .ctx-now{background:rgba(255,255,255,.05);border-color:var(--line)}
+.ctx.locked .ctx-now .k{color:var(--dim2)}
+.ctx.locked .ctx-now b{color:var(--dim)}
+
 </style>
 </head>
 <body>
@@ -647,6 +764,7 @@ ul{margin:0;padding:0;list-style:none}
       <div class="story-mid"><b id="story-chapter">챕터</b><span id="story-role">당신의 이야기</span></div>
       <div class="story-count" id="story-count">1 / 4</div>
     </div>
+    <div class="ctx" id="ctx-story" aria-label="챕터 앞뒤 맥락"></div>
     <div class="bars" id="story-bars"></div>
     <div class="stage" id="story-stage"></div>
     <div class="story-foot">
@@ -661,6 +779,7 @@ ul{margin:0;padding:0;list-style:none}
       <div class="progress-track"><div class="progress-fill" id="q-progress"></div></div>
       <div class="hud-score" id="q-score">0</div>
     </div>
+    <div class="ctx compact" id="ctx-quiz" aria-label="챕터 앞뒤 맥락"></div>
     <div class="quiz-sub">
       <div class="chip" id="q-chip">한국사</div>
       <div class="hearts" id="q-hearts"></div>
@@ -675,6 +794,15 @@ ul{margin:0;padding:0;list-style:none}
   </section>
 
   <section id="screen-result" class="screen"><div id="result-body"></div></section>
+
+  <section id="screen-timeline" class="screen">
+    <div class="page-head tl-head">
+      <h1>연대기</h1>
+      <p>시대의 흐름을 따라, 내가 어디쯤 서 있는지.</p>
+    </div>
+    <div class="seg" id="tl-seg"></div>
+    <div id="tl-body"></div>
+  </section>
 
   <section id="screen-collection" class="screen">
     <div class="page-head">
@@ -700,6 +828,7 @@ ul{margin:0;padding:0;list-style:none}
 
   <nav id="tabbar" class="tabbar">
     <button class="tab on" data-tab="home"><span class="ti">🏠</span><span>홈</span></button>
+    <button class="tab" data-tab="timeline"><span class="ti">🕰️</span><span>연대기</span></button>
     <button class="tab" data-tab="collection"><span class="ti">📖</span><span>도감</span></button>
     <button class="tab" data-tab="settings"><span class="ti">⚙️</span><span>설정</span></button>
   </nav>
@@ -7306,6 +7435,192 @@ HB_UNITS.push({
 });
 
 /* =========================================================
+   연대기(Timeline) 메타데이터
+   - TL_UNITS : 단원별 시대 범위 (span)
+   - TL_CH    : 챕터별 연대 표기(y)와 핵심 인물·사건 태그(tags)
+   챕터 본문은 건드리지 않고, 연대기 화면에서만 쓰는 표시용 데이터입니다.
+   ========================================================= */
+const TL_UNITS = {
+  kr1:  { span:'기원전 70만? ~ 668' },
+  kr2:  { span:'676 ~ 1392' },
+  kr3:  { span:'1388 ~ 1592' },
+  kr4:  { span:'1592 ~ 1894' },
+  kr5:  { span:'1876 ~ 1945' },
+  kr6:  { span:'1945 ~ 오늘' },
+
+  world1:{ span:'BC 3500 ~ 476' },
+  world2:{ span:'476 ~ 1644' },
+  world3:{ span:'14세기 ~ 18세기' },
+  world4:{ span:'1776 ~ 1914' },
+  world5:{ span:'1914 ~ 오늘' },
+  world6:{ span:'BC 3세기 ~ 오늘' },
+
+  cu1:  { span:'고대 ~ 20세기 · 주제별' },
+  cu2:  { span:'원리 · 제도별' },
+  cu3:  { span:'우주 ~ 21세기 · 주제별' },
+  cu4:  { span:'고대 ~ 20세기 · 주제별' }
+};
+
+const TL_CH = {
+  /* ---------- 한국사 ---------- */
+  k01:{ y:'BC 70만?~2000', tags:['주먹도끼','빗살무늬토기'] },
+  k02:{ y:'BC 2000~300',   tags:['고인돌','비파형동검'] },
+  k03:{ y:'BC 2333~108',   tags:['단군왕검','8조법'] },
+  k04:{ y:'BC 300~108',    tags:['위만','왕검성'] },
+  k05:{ y:'BC 2세기~3세기', tags:['영고','소도'] },
+  k06:{ y:'BC 37~668',     tags:['주몽','소수림왕'] },
+  k07:{ y:'BC 18~660',     tags:['온조','근초고왕'] },
+  k08:{ y:'BC 57~562',     tags:['박혁거세','화백회의'] },
+  k09:{ y:'391~491',       tags:['광개토대왕','장수왕'] },
+  k10:{ y:'598~645',       tags:['을지문덕','안시성'] },
+  k11:{ y:'676~926',       tags:['김춘추','나당 전쟁'] },
+  k12:{ y:'698~926',       tags:['대조영','동모산'] },
+  k13:{ y:'9세기 말~936',  tags:['견훤','궁예'] },
+  k14:{ y:'918~936',       tags:['왕건','후삼국 통일'] },
+  k15:{ y:'949~975',       tags:['광종','노비안검법'] },
+  k16:{ y:'981~997',       tags:['성종','최승로'] },
+  k17:{ y:'993~1019',      tags:['서희','소손녕'] },
+  k18:{ y:'1010~1019',     tags:['강감찬','귀주대첩'] },
+  k19:{ y:'1170~1270',     tags:['정중부','만적'] },
+  k20:{ y:'1231~1270',     tags:['강화도','삼별초'] },
+  k21:{ y:'1388~1392',     tags:['이성계','위화도 회군'] },
+  k22:{ y:'1392~1398',     tags:['정도전','이방원'] },
+  k23:{ y:'1400~1418',     tags:['태종','6조 직계제'] },
+  k24:{ y:'1418~1450',     tags:['세종','훈민정음'] },
+  k25:{ y:'1455~1494',     tags:['세조','경국대전'] },
+  k26:{ y:'15세기 말~16세기', tags:['조광조','향약'] },
+  k27:{ y:'1592~1598',     tags:['이순신','학익진'] },
+  k28:{ y:'1608~1623',     tags:['광해군','대동법'] },
+  k29:{ y:'1636~1637',     tags:['인조','삼전도'] },
+  k30:{ y:'조선 전기',     tags:['양반','노비'] },
+  k31:{ y:'1724~1776',     tags:['영조','균역법'] },
+  k32:{ y:'1776~1800',     tags:['정조','수원 화성'] },
+  k33:{ y:'17~18세기',     tags:['박지원','정약용'] },
+  k34:{ y:'18세기',        tags:['판소리','김홍도'] },
+  k35:{ y:'17~18세기',     tags:['상평통보','보부상'] },
+  k36:{ y:'1800~1863',     tags:['세도정치','홍경래'] },
+  k37:{ y:'1863~1873',     tags:['흥선대원군','경복궁'] },
+  k38:{ y:'1894',          tags:['전봉준','우금치'] },
+  k39:{ y:'1894~1895',     tags:['갑오개혁','신분제 폐지'] },
+  k40:{ y:'17~19세기',     tags:['안용복','대동여지도'] },
+  k41:{ y:'1876',          tags:['운요호사건','최익현'] },
+  k42:{ y:'1884',          tags:['김옥균','우정총국'] },
+  k43:{ y:'1895',          tags:['명성황후','아관파천'] },
+  k44:{ y:'1897~1910',     tags:['독립협회','대한제국'] },
+  k45:{ y:'1905~1910',     tags:['을사조약','안중근'] },
+  k46:{ y:'1910~1919',     tags:['3·1운동','임시정부'] },
+  k47:{ y:'1919~1930년대', tags:['문화통치','봉오동 전투'] },
+  k48:{ y:'1937~1945',     tags:['창씨개명','윤봉길'] },
+  k49:{ y:'1945~1948',     tags:['38도선','분단'] },
+  k50:{ y:'1950~1953',     tags:['인천상륙작전','정전협정'] },
+  k51:{ y:'1960',          tags:['김주열','4·19혁명'] },
+  k52:{ y:'1960~70년대',   tags:['박정희','경부고속도로'] },
+  k53:{ y:'1972~1980',     tags:['유신헌법','5·18민주화운동'] },
+  k54:{ y:'1987',          tags:['이한열','6·29 선언'] },
+  k55:{ y:'1997~오늘',     tags:['외환위기','금 모으기'] },
+
+  /* ---------- 세계사 ---------- */
+  w01:{ y:'BC 3500~539',   tags:['함무라비 법전','쐐기문자'] },
+  w02:{ y:'BC 3100~30',    tags:['파라오','상형문자'] },
+  w03:{ y:'BC 2600~1046',  tags:['모헨조다로','갑골문'] },
+  w04:{ y:'BC 1200~500',   tags:['알파벳','유일신 신앙'] },
+  w05:{ y:'BC 8~6세기',    tags:['폴리스','민회'] },
+  w06:{ y:'BC 492~479',    tags:['테르모필라이','살라미스'] },
+  w07:{ y:'BC 5세기',      tags:['페리클레스','파르테논'] },
+  w08:{ y:'BC 334~323',    tags:['알렉산드로스','알렉산드리아'] },
+  w09:{ y:'BC 509~27',     tags:['포에니 전쟁','카이사르'] },
+  w10:{ y:'BC 27~476',     tags:['아우구스투스','콘스탄티누스'] },
+  w11:{ y:'395~1453',      tags:['유스티니아누스','성소피아'] },
+  w12:{ y:'610~632',       tags:['무함마드','헤지라'] },
+  w13:{ y:'8~13세기',      tags:['바그다드','지혜의 집'] },
+  w14:{ y:'9~13세기',      tags:['봉건제','장원'] },
+  w15:{ y:'1077',          tags:['서임권','카노사'] },
+  w16:{ y:'1096~1291',     tags:['십자군','한자 동맹'] },
+  w17:{ y:'1206~1368',     tags:['칭기즈 칸','역참'] },
+  w18:{ y:'1347~1453',     tags:['흑사병','잔 다르크'] },
+  w19:{ y:'960~1644',      tags:['정화','조공'] },
+  w20:{ y:'14~16세기',     tags:['메디치','구텐베르크'] },
+  w21:{ y:'1517~1648',     tags:['마르틴 루터','95개 조항'] },
+  w22:{ y:'1492~1522',     tags:['콜럼버스','마젤란'] },
+  w23:{ y:'16~17세기',     tags:['아즈텍','노예무역'] },
+  w24:{ y:'17세기',        tags:['루이 14세','베르사유'] },
+  w25:{ y:'1642~1689',     tags:['권리청원','명예혁명'] },
+  w26:{ y:'16~17세기',     tags:['코페르니쿠스','뉴턴'] },
+  w27:{ y:'18세기',        tags:['볼테르','루소'] },
+  w28:{ y:'14~18세기',     tags:['오스만 제국','무굴 제국'] },
+  w29:{ y:'1776~1783',     tags:['보스턴 차 사건','독립선언서'] },
+  w30:{ y:'1789~1799',     tags:['바스티유 감옥','인권선언'] },
+  w31:{ y:'1799~1815',     tags:['나폴레옹 법전','빈 회의'] },
+  w32:{ y:'1815~1848',     tags:['메테르니히','민족주의'] },
+  w33:{ y:'1760~1840',     tags:['증기기관','공장'] },
+  w34:{ y:'19세기',        tags:['마르크스','노동조합'] },
+  w35:{ y:'1861~1871',     tags:['비스마르크','가리발디'] },
+  w36:{ y:'1884~1914',     tags:['베를린 회의','아프리카 분할'] },
+  w37:{ y:'1840~1911',     tags:['아편전쟁','난징조약'] },
+  w38:{ y:'1917',          tags:['레닌','차르'] },
+  w39:{ y:'1914~1918',     tags:['사라예보','동맹'] },
+  w40:{ y:'1919~1939',     tags:['베르사유 조약','대공황'] },
+  w41:{ y:'1939~1941',     tags:['유화정책','히틀러'] },
+  w42:{ y:'1941~1945',     tags:['홀로코스트','스탈린그라드'] },
+  w43:{ y:'1945',          tags:['원자폭탄','국제연합'] },
+  w44:{ y:'1961~1989',     tags:['베를린 장벽','쿠바 위기'] },
+  w45:{ y:'1947~1960년대', tags:['간디','소금 행진'] },
+  w46:{ y:'1955~1975',     tags:['베트남 전쟁','반전 운동'] },
+  w47:{ y:'1985~1991',     tags:['고르바초프','냉전 종식'] },
+  w48:{ y:'2001~오늘',     tags:['9·11 테러','세계화'] },
+  w49:{ y:'BC 3세기',      tags:['에라토스테네스','알렉산드리아'] },
+  w50:{ y:'15세기',        tags:['구텐베르크','활판인쇄'] },
+  w51:{ y:'17세기',        tags:['주식회사','동인도 회사'] },
+  w52:{ y:'18~20세기',     tags:['애덤 스미스','케인스'] },
+  w53:{ y:'19세기',        tags:['다윈','자연선택'] },
+  w54:{ y:'20세기',        tags:['아인슈타인','양자역학'] },
+  w55:{ y:'1945~1948',     tags:['국제연합','세계인권선언'] },
+
+  /* ---------- 교양 상식 ---------- */
+  c01:{ y:'BC 5세기',      tags:['소크라테스','질문'] },
+  c02:{ y:'BC 4세기',      tags:['플라톤','이데아'] },
+  c03:{ y:'BC 4세기',      tags:['아리스토텔레스','중용'] },
+  c04:{ y:'17세기',        tags:['데카르트','코기토'] },
+  c05:{ y:'18세기',        tags:['칸트','정언명령'] },
+  c06:{ y:'18~19세기',     tags:['벤담','밀'] },
+  c07:{ y:'19세기',        tags:['니체','허무주의'] },
+  c08:{ y:'20세기',        tags:['사르트르','하이데거'] },
+  c09:{ y:'고대~현대',     tags:['연역','귀납'] },
+  c10:{ y:'20세기',        tags:['롤스','트롤리 딜레마'] },
+  c11:{ y:'개념',          tags:['공급','수요'] },
+  c12:{ y:'개념',          tags:['인플레이션','금리'] },
+  c13:{ y:'개념',          tags:['환율','국제수지'] },
+  c14:{ y:'개념',          tags:['채권','주식'] },
+  c15:{ y:'개념',          tags:['복리','이자'] },
+  c16:{ y:'개념',          tags:['세금','예산'] },
+  c17:{ y:'개념',          tags:['선거','대표'] },
+  c18:{ y:'개념',          tags:['권력분립','헌법'] },
+  c19:{ y:'개념',          tags:['계약','민법'] },
+  c20:{ y:'개념',          tags:['무죄 추정','죄형법정주의'] },
+  c21:{ y:'20세기',        tags:['빅뱅','적색편이'] },
+  c22:{ y:'20세기',        tags:['초신성','블랙홀'] },
+  c23:{ y:'고대~근대',     tags:['자전축','조수'] },
+  c24:{ y:'20세기',        tags:['베게너','대륙 이동설'] },
+  c25:{ y:'20세기',        tags:['DNA','세포'] },
+  c26:{ y:'19세기',        tags:['변이','자연선택'] },
+  c27:{ y:'20세기',        tags:['면역','백신'] },
+  c28:{ y:'20세기',        tags:['뉴런','도파민'] },
+  c29:{ y:'21세기',        tags:['인공지능','환각'] },
+  c30:{ y:'21세기',        tags:['온실 효과','기후 변화'] },
+  c31:{ y:'15세기',        tags:['브루넬레스키','마사초'] },
+  c32:{ y:'19세기',        tags:['모네','인상주의'] },
+  c33:{ y:'12~20세기',     tags:['아치','플라잉 버트레스'] },
+  c34:{ y:'18~19세기',     tags:['베토벤','소나타'] },
+  c35:{ y:'20세기',        tags:['프로이트','행동주의'] },
+  c36:{ y:'20세기',        tags:['확증편향','집단사고'] },
+  c37:{ y:'20세기',        tags:['소쉬르','기호'] },
+  c38:{ y:'15세기',        tags:['훈민정음','글자'] },
+  c39:{ y:'고대~현대',     tags:['에토스','로고스'] },
+  c40:{ y:'20세기',        tags:['동시 대비','색 지각'] }
+};
+
+
+/* =========================================================
    역사 한 입 · 150 챕터 스토리 모드
    데이터: HB_UNITS ( _build/data/*.js ) → CHAPTERS 로 정리
    ========================================================= */
@@ -7426,7 +7741,7 @@ const DEFAULT = {
   ach:{}, title:'', sound:true, vibrate:true,
   dailyDate:null, dailyScore:0, survBest:0,
   homeCat:'kr',
-  ux:{ open:{}, filter:'all', q:'' },
+  ux:{ open:{}, filter:'all', q:'', tlCat:'kr' },
   legacy:null
 };
 
@@ -7451,10 +7766,11 @@ function loadData(){
         d[k]=v;
       }
     });
-    if(!d.ux || typeof d.ux!=='object') d.ux={ open:{}, filter:'all', q:'' };
+    if(!d.ux || typeof d.ux!=='object') d.ux={ open:{}, filter:'all', q:'', tlCat:'kr' };
     if(!d.ux.open) d.ux.open={};
     if(typeof d.ux.filter!=='string') d.ux.filter='all';
     if(typeof d.ux.q!=='string') d.ux.q='';
+    if(!d.ux.tlCat || !CATS[d.ux.tlCat]) d.ux.tlCat=(CATS[d.homeCat]?d.homeCat:'kr');
     migrateLegacy(d, raw);
   }else{
     try{
@@ -7589,7 +7905,7 @@ function ac(){
 function tone(freq,delay,dur,type,vol){
   const c=ac(); if(!c) return;
   try{
-    if(c.state==='suspended') c.resume();
+    if(c.state==='suspended'){ try{ const pr=c.resume(); if(pr&&pr.catch) pr.catch(function(){}); }catch(e){} }
     const t=c.currentTime+delay;
     const o=c.createOscillator();
     const g=c.createGain();
@@ -7627,10 +7943,12 @@ let LAST_CH=null;
 let modalResolve=null;
 let OPEN_UNIT=null;
 let HOME_SCROLL=0;
+let TL_SCROLL=0;
+let ORIGIN='home';
 
 function showScreen(name){
   SCREEN=name;
-  ['home','story','quiz','result','collection','settings'].forEach(function(s){
+  ['home','timeline','story','quiz','result','collection','settings'].forEach(function(s){
     const el=$('screen-'+s);
     if(el) el.classList.toggle('active',s===name);
   });
@@ -7742,7 +8060,8 @@ function renderHome(){
 
   $('home-body').innerHTML=
     resumeHtml+
-    '<div class="section-label"><h2>STORY MODE · 150 CHAPTERS</h2><span class="hint">읽고 · 고르고 · 확인</span></div>'+
+    '<div class="section-label"><h2>STORY MODE · 150 CHAPTERS</h2>'+
+      '<button class="hint-link" data-act="open-timeline">🕰️ 연대기 ›</button></div>'+
     '<div class="seg" id="home-seg">'+seg+'</div>'+
     '<div class="catprog"><div class="pt"><div class="pf" style="width:'+pct+'%"></div></div>'+
       '<span>'+CATS[cat].name+' '+done+'/'+list.length+'</span></div>'+
@@ -7853,10 +8172,157 @@ function starText(n){
   return s;
 }
 
+/* ---------- 연대기(timeline) ---------- */
+function tlMeta(c){
+  const m=(typeof TL_CH!=='undefined')?TL_CH[c.id]:null;
+  return { y:(m&&m.y)||'', tags:(m&&m.tags)||[] };
+}
+function tlUnitSpan(u){
+  const m=(typeof TL_UNITS!=='undefined')?TL_UNITS[u.id]:null;
+  return (m&&m.span)||'';
+}
+function chapterNeighbors(c){
+  const seq=catChapters(c.cat);
+  const i=seq.indexOf(c);
+  return { prev:(i>0?seq[i-1]:null), next:(i>=0&&i<seq.length-1?seq[i+1]:null) };
+}
+function tlRowHTML(c, rc){
+  const r=DATA.chapters[c.id]||null;
+  const m=tlMeta(c);
+  const cleared=!!(r&&r.cleared);
+  const read=r?Math.min(r.read||0, c.scenes.length):0;
+  const now=!!(rc&&rc.id===c.id);
+  const cls='tl-row'+(cleared?' cleared':'')+(!cleared&&read>0?' reading':'')+(now?' now':'');
+  let state='';
+  if(cleared) state='<span class="tl-state">'+starText(r.stars)+'</span>';
+  else if(read>0) state='<span class="tl-state read">'+read+'/'+c.scenes.length+'</span>';
+  return '<li class="'+cls+'">'+
+    '<button class="tl-item" data-act="chapter" data-id="'+c.id+'" aria-label="CH '+c.no+' '+esc(c.era)+' · '+esc(c.title)+(cleared?' · 완료':'')+'">'+
+      '<span class="tl-node">'+(cleared?'✓':(read>0?'•':''))+'</span>'+
+      '<span class="tl-meta"><span class="tl-era">'+esc(c.era)+'</span>'+
+        (now?'<span class="tl-nowtag">지금 여기</span>':'')+
+        (m.y?'<span class="tl-year">'+esc(m.y)+'</span>':'')+'</span>'+
+      '<b class="tl-title">'+esc(c.title)+'</b>'+
+      '<span class="tl-foot"><span class="tl-tags">'+
+        m.tags.map(function(t){ return '<i>'+esc(t)+'</i>'; }).join('')+
+      '</span>'+state+'</span>'+
+    '</button></li>';
+}
+function tlSummaryHTML(cat){
+  const rc=resumeChapter();
+  const list=catChapters(cat);
+  const done=catCleared(cat);
+  const pct=list.length?Math.round(done/list.length*100):0;
+  let inner;
+  if(rc && rc.cat===cat){
+    const r=DATA.chapters[rc.id]||{read:0};
+    const read=Math.min(r.read||0, rc.scenes.length);
+    inner='<span class="k">지금 여기 · '+CATS[cat].name+' '+done+'/'+list.length+'</span>'+
+      '<b>CH '+rc.no+' · '+esc(rc.title)+'</b>'+
+      '<span class="s">'+esc(rc.unit)+' · '+esc(rc.era)+(read>0?' · '+read+'/'+rc.scenes.length+' 장면 읽음':' · 아직 안 읽었어요')+'</span>';
+  }else if(rc){
+    inner='<span class="k">'+CATS[cat].name+' '+done+'/'+list.length+'</span>'+
+      '<b>지금은 '+CATS[rc.cat].name+' CH '+rc.no+'을 읽는 중</b>'+
+      '<span class="s">'+esc(rc.unit)+' · '+esc(rc.title)+'</span>';
+  }else{
+    inner='<span class="k">'+CATS[cat].name+' '+done+'/'+list.length+'</span>'+
+      '<b>150챕터를 모두 읽었어요</b><span class="s">연대기를 따라 다시 둘러보세요</span>';
+  }
+  const barW=Math.max(0,Math.min(100,pct))+'%';
+  return '<button class="tl-sum" data-act="tl-now" aria-label="지금 읽는 챕터로 이동"><div class="l">'+inner+'</div>'+
+    '<span class="pct"><b>'+pct+'%</b><small>진행 · 이동</small></span></button>'+
+    '<div class="tl-prog"><i style="width:'+barW+'"></i></div>';
+}
+function renderTimeline(){
+  if(!CATS[DATA.ux.tlCat]){
+    const rc=resumeChapter();
+    DATA.ux.tlCat=rc?rc.cat:'kr';
+  }
+  const cat=DATA.ux.tlCat;
+  let seg='';
+  CAT_ORDER.forEach(function(k){
+    const c=CATS[k];
+    seg+='<button data-act="tl-cat" data-cat="'+k+'" class="'+(k===cat?'on':'')+'">'+c.icon+' '+c.name+
+      '<span class="cn">'+catCleared(k)+'/'+catChapters(k).length+'</span></button>';
+  });
+  $('tl-seg').innerHTML=seg;
+
+  const rc=resumeChapter();
+  let html=tlSummaryHTML(cat)+
+    '<div class="tl-legend"><i><span class="d on"></span>완료</i><i><span class="d mid"></span>읽는 중</i><i><span class="d now"></span>지금 여기</i></div>';
+
+  CAT_UNITS[cat].forEach(function(u){
+    const done=unitCleared(u);
+    const pct=Math.round(done/u.chapters.length*100);
+    let rows='';
+    u.chapters.forEach(function(c){ rows+=tlRowHTML(c, rc); });
+    html+='<section class="tl-unit '+CATS[u.cat].cls+'" data-tlu="'+u.id+'">'+
+      '<div class="tl-uhead">'+
+        '<span class="uico">'+u.emoji+'</span>'+
+        '<div class="ut"><b>'+esc(u.name)+'</b><em>'+esc(tlUnitSpan(u))+'</em></div>'+
+        '<div class="up"><b>'+done+'/'+u.chapters.length+'</b><i>'+(done===u.chapters.length?'완주':pct+'%')+'</i></div>'+
+      '</div>'+
+      '<ol class="tl-list">'+rows+'</ol></section>';
+  });
+  $('tl-body').innerHTML=html;
+}
+function tlScrollToNow(){
+  const scr=$('screen-timeline'); if(!scr) return;
+  const el=scr.querySelector('.tl-row.now'); if(!el) return;
+  const r=el.getBoundingClientRect(), sr=scr.getBoundingClientRect();
+  const offset=r.top-sr.top;
+  if(offset > 40 && offset < sr.height*0.62) return;
+  let top=scr.scrollTop+offset-Math.max(56, scr.clientHeight*0.40);
+  if(top<0) top=0;
+  scr.scrollTop=top;
+}
+function openTimeline(){
+  renderTimeline();
+  showScreen('timeline');
+  const scr=$('screen-timeline'); if(scr) scr.scrollTop=0;
+  requestAnimationFrame(function(){ tlScrollToNow(); });
+}
+
+/* ---------- 챕터 전후 맥락 ---------- */
+function ctxHTML(chId, locked){
+  const c=CH[chId]; if(!c) return '';
+  const nb=chapterNeighbors(c);
+  const side=function(cc, dir){
+    const lab=(dir<0?'◀ 이전':'다음 ▶');
+    if(!cc){
+      return '<span class="ctx-side off'+(dir>0?' next':'')+'"><span class="k">'+lab+'</span>'+
+        '<b>'+(dir<0?'시대의 시작':'시대의 끝')+'</b><em>'+(dir<0?'first':'last')+'</em></span>';
+    }
+    return '<button class="ctx-side'+(dir>0?' next':'')+'" data-act="ctx-jump" data-id="'+cc.id+'"'+
+      (locked?' disabled aria-disabled="true" title="퀴즈 중에는 이동할 수 없어요"':'')+
+      ' aria-label="'+(dir<0?'이전':'다음')+' 챕터 CH '+cc.no+' '+esc(cc.era)+'">'+
+      '<span class="k">'+lab+'</span><b>'+esc(cc.era)+'</b><em>CH '+cc.no+'</em></button>';
+  };
+  return side(nb.prev,-1)+
+    '<div class="ctx-now"><span class="k">'+(locked?'🔒 퀴즈 중':'지금')+'</span><b>CH '+c.no+'</b><em>'+esc(c.era)+'</em></div>'+
+    side(nb.next,1);
+}
+function renderCtx(){
+  const sb=$('ctx-story');
+  if(sb){
+    const show=(SCREEN==='story'&&ST);
+    sb.className='ctx';
+    sb.innerHTML=show?ctxHTML(ST.ch,false):'';
+  }
+  const qb=$('ctx-quiz');
+  if(qb){
+    const show=!!(G && G.mode==='chapter' && G.chId);
+    qb.className='ctx compact'+(show?' locked':'');
+    qb.innerHTML=show?ctxHTML(G.chId,true):'';
+  }
+}
+
 /* ---------- story ---------- */
 function openChapter(id){
   const c=CH[id]; if(!c) return;
   const hs=$('screen-home'); if(hs && SCREEN==='home') HOME_SCROLL=hs.scrollTop;
+  const ts=$('screen-timeline'); if(ts && SCREEN==='timeline') TL_SCROLL=ts.scrollTop;
+  if(SCREEN==='home'||SCREEN==='timeline') ORIGIN=SCREEN;
   const r=chapterRec(id);
   let step=0;
   if(!r.cleared && r.read>0) step=Math.min(r.read, c.scenes.length);
@@ -7938,6 +8404,7 @@ function renderStory(){
   }else{
     next.innerHTML='다음 장면 <span>→</span>';
   }
+  renderCtx();
 }
 
 function storyNext(){
@@ -7959,9 +8426,16 @@ function storyPrev(){
 }
 function exitStory(){
   ST=null;
-  renderHome();
-  showScreen('home');
-  const hs=$('screen-home'); if(hs) hs.scrollTop=HOME_SCROLL;
+  if(ORIGIN==='timeline'){
+    renderTimeline();
+    showScreen('timeline');
+    const ts=$('screen-timeline'); if(ts) ts.scrollTop=TL_SCROLL;
+  }else{
+    renderHome();
+    showScreen('home');
+    const hs=$('screen-home'); if(hs) hs.scrollTop=HOME_SCROLL;
+  }
+  renderCtx();
 }
 
 function paintPick(i){
@@ -8079,7 +8553,7 @@ function renderQuestion(){
   const chip=$('q-chip');
   if(G.mode==='chapter'){
     chip.className='chip '+CATS[qch.cat].cls;
-    chip.textContent='CH '+qch.no+' · '+qch.unit;
+    chip.textContent=qch.unit;
   }else if(G.mode==='daily'){
     chip.className='chip'; chip.textContent='오늘의 복습';
   }else if(G.mode==='survival'){
@@ -8126,6 +8600,7 @@ function renderQuestion(){
 
   G.locked=false;
   scrollTop();
+  renderCtx();
   if(surv) startTimer(); else stopTimer();
 }
 
@@ -8671,8 +9146,9 @@ document.addEventListener('click',function(e){
   if(tab){
     sfx('tap');
     if(tab.dataset.tab==='home'){ renderHome(); showScreen('home'); }
+    else if(tab.dataset.tab==='timeline'){ openTimeline(); }
     else if(tab.dataset.tab==='collection'){ renderCollection(); showScreen('collection'); }
-    else { renderSettings(); showScreen('settings'); }
+    else if(tab.dataset.tab==='settings'){ renderSettings(); showScreen('settings'); }
     return;
   }
 
@@ -8707,6 +9183,37 @@ document.addEventListener('click',function(e){
   else if(act==='chapter'){
     sfx('tap');
     openChapter(el.dataset.id);
+  }
+  else if(act==='open-timeline'){
+    sfx('tap');
+    openTimeline();
+  }
+  else if(act==='tl-cat'){
+    sfx('tap');
+    DATA.ux.tlCat=el.dataset.cat; save();
+    renderTimeline();
+    const scr=$('screen-timeline'); if(scr) scr.scrollTop=0;
+    if(SCREEN!=='timeline') showScreen('timeline');
+  }
+  else if(act==='tl-now'){
+    sfx('tap');
+    const scr=$('screen-timeline');
+    if(scr && !scr.querySelector('.tl-row.now')){
+      const rc=resumeChapter();
+      if(rc && CATS[rc.cat] && rc.cat!==DATA.ux.tlCat){
+        DATA.ux.tlCat=rc.cat; save(); renderTimeline();
+        if(SCREEN!=='timeline') showScreen('timeline');
+      }
+    }
+    tlScrollToNow();
+  }
+  else if(act==='ctx-jump'){
+    if(SCREEN==='quiz'){
+      showToast('🔒','퀴즈 중에는 이동할 수 없어요','퀴즈를 마치면 앞뒤 챕터로 갈 수 있어요.');
+      return;
+    }
+    const cid=el.dataset.id;
+    if(cid && CH[cid]){ sfx('tap'); openChapter(cid); }
   }
   else if(act==='story-pick'){
     storyPick(Number(el.dataset.i));
@@ -8868,9 +9375,12 @@ if(document.readyState!=='loading') boot();
 window.__HB={
   DATA:function(){ return DATA; },
   CHAPTERS:CHAPTERS, CH:CH, CATS:CATS, UNITS:UNITS, ALLQ:ALLQ, ACHS:ACHS,
-  state:function(){ return {screen:SCREEN, G:G, ST:ST}; },
+  state:function(){ return {screen:SCREEN, G:G, ST:ST, origin:ORIGIN}; },
   openChapter:openChapter, startChapterQuiz:startChapterQuiz, start:start,
-  renderHome:renderHome, resumeChapter:resumeChapter
+  renderHome:renderHome, resumeChapter:resumeChapter,
+  renderTimeline:renderTimeline, openTimeline:openTimeline, tlScrollToNow:tlScrollToNow,
+  tlMeta:tlMeta, tlUnitSpan:tlUnitSpan, chapterNeighbors:chapterNeighbors, ctxHTML:ctxHTML,
+  tlChapters:(typeof TL_CH!=='undefined')?TL_CH:{}, tlUnits:(typeof TL_UNITS!=='undefined')?TL_UNITS:{}
 };
 
 </script>
